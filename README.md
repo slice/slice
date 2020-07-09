@@ -26,6 +26,8 @@ Today's emotion horoscope: <code>:-)</code> <code>:D</code> <code>;P</code> <cod
 
 <br/>
 
+<img src="https://web.archive.org/web/20091027071000/http://geocities.com/jpdetroitusa/CONSTRUCTION_ANIMEE.gif" align="left">
+
 ![](https://anlucas.neocities.org/best_viewed_with_eyes.gif)
 ![](https://anlucas.neocities.org/anydamn.gif)
 ![](https://anlucas.neocities.org/amazing_free_stuff.gif)
@@ -41,9 +43,9 @@ Today's emotion horoscope: <code>:-)</code> <code>:D</code> <code>;P</code> <cod
 ![](https://anlucas.neocities.org/macos.gif)
 ![](https://anlucas.neocities.org/homicide.gif)
 
-##### Very good
+## Very good
 
-Take a look:
+Chaotic:
 
 <img src="https://web.archive.org/web/20091027004337/http://uk.geocities.com/kazlev2001/SkullXBones.gif" align="right">
 
@@ -54,14 +56,14 @@ trait Monad[F[_]] {
 }
 ```
 
-<img src="https://web.archive.org/web/20090830025036/http://geocities.com/CollegePark/Square/6517/skull.gif" align="right">
+Evil:
+
+<img src="https://web.archive.org/web/20091027004337/http://uk.geocities.com/kazlev2001/SkullXBones.gif" align="right">
 
 ```haskell
 class Monad m where
   (>>=)  :: m a -> (  a -> m b) -> m b
-  (>>)   :: m a ->  m b         -> m b
   return ::   a                 -> m a
-  fail   :: String -> m a
 ```
 
 ![spinning skull](https://web.archive.org/web/20000928212507/http://www.geocities.com:80/SunsetStrip/Studio/3470/skull.gif)
