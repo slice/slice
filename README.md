@@ -37,8 +37,8 @@ bugs, and other various pests. <code>:-)</code> <code>:D</code> <code>;P</code> 
 
 ```scala
 trait Monad[F[_]] {
-  def flatMap(fa: F[A])(f: A => F[B]): F[B]
-  def pure(a: A): F[A]
+  def flatMap[A, B](fa: F[A])(f: A => F[B]): F[B]
+  def pure[A](a: A): F[A]
 }
 ```
 
