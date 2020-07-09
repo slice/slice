@@ -57,6 +57,8 @@ trait Monad[F[_]] {
 }
 ```
 
+<br/>
+
 **Evil:**
 
 <img src="https://web.archive.org/web/20091027000612/http://br.geocities.com/patclinvet/figuras/fire.gif" align="left">
@@ -67,6 +69,8 @@ class Monad m where
   (>>=)  :: m a -> (  a -> m b) -> m b
   return ::   a                 -> m a
 ```
+
+##### BEWARE THE MONAD!
 
 ![spinning skull](https://web.archive.org/web/20000928212507/http://www.geocities.com:80/SunsetStrip/Studio/3470/skull.gif)
 ![spinning skull](https://web.archive.org/web/20000928212507/http://www.geocities.com:80/SunsetStrip/Studio/3470/skull.gif)
