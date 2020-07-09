@@ -45,7 +45,7 @@ bugs, and other various pests.<br/>
 
 ## Very good ( Functional )
 
-**Chaotic:**
+### Chaotic:
 
 <img src="https://web.archive.org/web/20091027000612/http://br.geocities.com/patclinvet/figuras/fire.gif" align="left">
 <img src="https://web.archive.org/web/20091027004337/http://uk.geocities.com/kazlev2001/SkullXBones.gif" align="right">
@@ -59,7 +59,7 @@ trait Monad[F[_]] {
 
 <br/>
 
-**Evil:**
+### Evil:
 
 <img src="https://web.archive.org/web/20091027000612/http://br.geocities.com/patclinvet/figuras/fire.gif" align="left">
 <img src="https://web.archive.org/web/20091027004337/http://uk.geocities.com/kazlev2001/SkullXBones.gif" align="right">
@@ -70,8 +70,9 @@ class Monad m where
   return ::   a                 -> m a
 ```
 
-##### BEWARE THE MONAD!
+## BEWARE THE MONAD!
 
+![spinning skull](https://web.archive.org/web/20000928212507/http://www.geocities.com:80/SunsetStrip/Studio/3470/skull.gif)
 ![spinning skull](https://web.archive.org/web/20000928212507/http://www.geocities.com:80/SunsetStrip/Studio/3470/skull.gif)
 ![spinning skull](https://web.archive.org/web/20000928212507/http://www.geocities.com:80/SunsetStrip/Studio/3470/skull.gif)
 ![spinning skull](https://web.archive.org/web/20000928212507/http://www.geocities.com:80/SunsetStrip/Studio/3470/skull.gif)
