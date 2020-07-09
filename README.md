@@ -1,5 +1,7 @@
 # ![skull](https://web.archive.org/web/20091024082652/http://www.geocities.com/masta_pupa/skullflame.gif) WELCOME TO THE SLICE ZONE ![skull](https://web.archive.org/web/20091024082652/http://www.geocities.com/masta_pupa/skullflame.gif)
 
+![fire](https://web.archive.org/web/20091025162704/http://geocities.com/curt_sigurdsen/firebar.gif)
+
 ##### ARACHNOSKULLS RULE!
 
 ![arachnoskull](https://web.archive.org/web/20091027115623/http://www.geocities.com/draconisblkthn/arachnoskull.gif)
@@ -12,13 +14,15 @@
 ![arachnoskull](https://web.archive.org/web/20091027115623/http://www.geocities.com/draconisblkthn/arachnoskull.gif)
 
 <img src="https://web.archive.org/web/20091027100503/http://geocities.com/tiamatica/spiderskull.gif" align="left">
+
+<p>
 Contained within the <b>GitHub user page</b> you are reading now: many, various,
 very dangerous softwares. Please keep your head up, tread lightly, and be
 cautious because your computer is never TRULY safe from worms! Make sure to
 keep your operating system clean, fresh, and tidy and free of toxins, roaches,
-bugs, and other various pests.
-
-emotions: <code>:-)</code> <code>:D</code> <code>;P</code> <code>:3</code> <code>&gt;:3</code>
+bugs, and other various pests.<br/>
+Today's emotion horoscope: <code>:-)</code> <code>:D</code> <code>;P</code> <code>:3</code> <code>&gt;:3</code>
+</p>
 
 <br/>
 
@@ -49,6 +53,8 @@ trait Monad[F[_]] {
   def pure[A](a: A): F[A]
 }
 ```
+
+<img src="https://web.archive.org/web/20090830025036/http://geocities.com/CollegePark/Square/6517/skull.gif" align="right">
 
 ```haskell
 class Monad m where
