@@ -16,12 +16,12 @@
 <img src="https://web.archive.org/web/20091027100503/http://geocities.com/tiamatica/spiderskull.gif" align="left">
 
 <p>
-Contained within the <b>GitHub user page</b> you are reading now: many, various,
+‼️ Contained within the <b>GitHub user page</b> you are reading now: many, various,
 very dangerous softwares. Please keep your head up, tread lightly, and be
 cautious because your computer is never TRULY safe from worms! Make sure to
 keep your operating system clean, fresh, and tidy and free of toxins, roaches,
 bugs, and other various pests.<br/>
-<b>Today's emotion horoscope</b>: <code>:-)</code> <code>:D</code> <code>;P</code> <code>:3</code> <code>&gt;:3</code>
+<b>🌠 Today's emotion horoscope</b>: <code>:-)</code> <code>:D</code> <code>;P</code> <code>:3</code> <code>&gt;:3</code>
 </p>
 
 <br/>
@@ -42,10 +42,14 @@ bugs, and other various pests.<br/>
 ![](https://anlucas.neocities.org/penguin.gif)
 ![](https://anlucas.neocities.org/macos.gif)
 ![](https://anlucas.neocities.org/homicide.gif)
+![](https://anlucas.neocities.org/privacynow.jpg)
+![](https://anlucas.neocities.org/nukeieani.gif)
+
+💌 **Email me:** slice@slice.zone
 
 ## Very good ( Functional )
 
-### Chaotic:
+### Destructive:
 
 <img src="https://web.archive.org/web/20091027000612/http://br.geocities.com/patclinvet/figuras/fire.gif" align="left">
 <img src="https://web.archive.org/web/20091027004337/http://uk.geocities.com/kazlev2001/SkullXBones.gif" align="right">
@@ -59,15 +63,15 @@ trait Monad[F[_]] {
 
 <br/>
 
-### Evil:
+### Disastrous:
 
 <img src="https://web.archive.org/web/20091027000612/http://br.geocities.com/patclinvet/figuras/fire.gif" align="left">
 <img src="https://web.archive.org/web/20091027004337/http://uk.geocities.com/kazlev2001/SkullXBones.gif" align="right">
 
 ```haskell
 class Monad m where
-  (>>=)  :: m a -> (  a -> m b) -> m b
-  return ::   a                 -> m a
+  (>>=) :: m a -> (a -> m b) -> m b
+  return :: a -> m a
 ```
 
 ## BEWARE THE MONAD!
