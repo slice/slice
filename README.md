@@ -1,4 +1,4 @@
-# ![skull](https://web.archive.org/web/20091024082652/http://www.geocities.com/masta_pupa/skullflame.gif) WELCOME TO THE SLICE ZONE ![skull](https://web.archive.org/web/20091024082652/http://www.geocities.com/masta_pupa/skullflame.gif)
+# ![skull](https://web.archive.org/web/20091024082652/http://www.geocities.com/masta_pupa/skullflame.gif) ![skull](https://web.archive.org/web/20091024082652/http://www.geocities.com/masta_pupa/skullflame.gif) WELCOME TO THE SLICE ZONE ![skull](https://web.archive.org/web/20091024082652/http://www.geocities.com/masta_pupa/skullflame.gif) ![skull](https://web.archive.org/web/20091024082652/http://www.geocities.com/masta_pupa/skullflame.gif)
 
 ![fire](https://web.archive.org/web/20091025162704/http://geocities.com/curt_sigurdsen/firebar.gif)
 
@@ -21,7 +21,7 @@ very dangerous softwares. Please keep your head up, tread lightly, and be
 cautious because your computer is never TRULY safe from worms! Make sure to
 keep your operating system clean, fresh, and tidy and free of toxins, roaches,
 bugs, and other various pests.<br/>
-Today's emotion horoscope: <code>:-)</code> <code>:D</code> <code>;P</code> <code>:3</code> <code>&gt;:3</code>
+<b>Today's emotion horoscope</b>: <code>:-)</code> <code>:D</code> <code>;P</code> <code>:3</code> <code>&gt;:3</code>
 </p>
 
 <br/>
@@ -43,10 +43,11 @@ Today's emotion horoscope: <code>:-)</code> <code>:D</code> <code>;P</code> <cod
 ![](https://anlucas.neocities.org/macos.gif)
 ![](https://anlucas.neocities.org/homicide.gif)
 
-## Very good
+## Very good ( Functional )
 
-Chaotic:
+**Chaotic:**
 
+<img src="https://web.archive.org/web/20091027000612/http://br.geocities.com/patclinvet/figuras/fire.gif" align="left">
 <img src="https://web.archive.org/web/20091027004337/http://uk.geocities.com/kazlev2001/SkullXBones.gif" align="right">
 
 ```scala
@@ -56,8 +57,9 @@ trait Monad[F[_]] {
 }
 ```
 
-Evil:
+**Evil:**
 
+<img src="https://web.archive.org/web/20091027000612/http://br.geocities.com/patclinvet/figuras/fire.gif" align="left">
 <img src="https://web.archive.org/web/20091027004337/http://uk.geocities.com/kazlev2001/SkullXBones.gif" align="right">
 
 ```haskell
@@ -74,7 +76,7 @@ class Monad m where
 ![spinning skull](https://web.archive.org/web/20000928212507/http://www.geocities.com:80/SunsetStrip/Studio/3470/skull.gif)
 ![spinning skull](https://web.archive.org/web/20000928212507/http://www.geocities.com:80/SunsetStrip/Studio/3470/skull.gif)
 
-Food
+## Food Below:
 
 <img src="https://web.archive.org/web/20061029174803/http://www.geocities.com/proteusa/SkullSpider2.gif" align="right">
 
