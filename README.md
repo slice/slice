@@ -16,7 +16,11 @@ Contained within the <b>GitHub user page</b> you are reading now: many, various,
 very dangerous softwares. Please keep your head up, tread lightly, and be
 cautious because your computer is never TRULY safe from worms! Make sure to
 keep your operating system clean, fresh, and tidy and free of toxins, roaches,
-bugs, and other various pests. <code>:-)</code> <code>:D</code> <code>;P</code> <code>:3</code>
+bugs, and other various pests.
+
+emotions: <code>:-)</code> <code>:D</code> <code>;P</code> <code>:3</code> <code>&gt;:3</code>
+
+<br/>
 
 ![](https://anlucas.neocities.org/best_viewed_with_eyes.gif)
 ![](https://anlucas.neocities.org/anydamn.gif)
@@ -35,6 +39,9 @@ bugs, and other various pests. <code>:-)</code> <code>:D</code> <code>;P</code> 
 
 ##### Very good
 
+Take a look:
+
+<img src="https://web.archive.org/web/20091027004337/http://uk.geocities.com/kazlev2001/SkullXBones.gif" align="right">
 ```scala
 trait Monad[F[_]] {
   def flatMap[A, B](fa: F[A])(f: A => F[B]): F[B]
@@ -42,8 +49,13 @@ trait Monad[F[_]] {
 }
 ```
 
-be cautious internet traveller!! DANGER lurks around every corner. enjoy surfing the web! never open any untrusted
-software that you do not recognize! <img src="https://web.archive.org/web/20091027004337/http://uk.geocities.com/kazlev2001/SkullXBones.gif" align="right">
+```haskell
+class Monad m where
+  (>>=)  :: m a -> (  a -> m b) -> m b
+  (>>)   :: m a ->  m b         -> m b
+  return ::   a                 -> m a
+  fail   :: String -> m a
+```
 
 ![spinning skull](https://web.archive.org/web/20000928212507/http://www.geocities.com:80/SunsetStrip/Studio/3470/skull.gif)
 ![spinning skull](https://web.archive.org/web/20000928212507/http://www.geocities.com:80/SunsetStrip/Studio/3470/skull.gif)
@@ -53,7 +65,8 @@ software that you do not recognize! <img src="https://web.archive.org/web/200910
 ![spinning skull](https://web.archive.org/web/20000928212507/http://www.geocities.com:80/SunsetStrip/Studio/3470/skull.gif)
 ![spinning skull](https://web.archive.org/web/20000928212507/http://www.geocities.com:80/SunsetStrip/Studio/3470/skull.gif)
 
-some favorite foods:
+Food
+
 <img src="https://web.archive.org/web/20061029174803/http://www.geocities.com/proteusa/SkullSpider2.gif" align="right">
 
 ![hotdog](https://raw.githubusercontent.com/slice/slice/master/images/foods/hotdog.png)
