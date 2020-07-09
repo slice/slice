@@ -23,7 +23,7 @@ cautious because your computer is never TRULY safe from worms! Make sure to
 keep your operating system clean, fresh, and tidy and free of toxins, roaches,
 bugs, and other various pests.<br/>
 <br/>
-<h5>🌠 Today's emotion horoscope</h5>
+<h2>🌠 Today's emotion horoscope</h2>
 <p>
 Your birthday will determine today's emotion. Find out now:
 </p>
@@ -95,7 +95,7 @@ class Monad m where
 ![spinning skull](https://web.archive.org/web/20000928212507/http://www.geocities.com:80/SunsetStrip/Studio/3470/skull.gif)
 ![spinning skull](https://web.archive.org/web/20000928212507/http://www.geocities.com:80/SunsetStrip/Studio/3470/skull.gif)
 
-## Food Below:
+## interesting Food Below:
 
 <img src="https://web.archive.org/web/20061029174803/http://www.geocities.com/proteusa/SkullSpider2.gif" align="right">
 
