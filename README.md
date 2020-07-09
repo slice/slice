@@ -16,7 +16,7 @@ Contained within the <b>GitHub user page</b> you are reading now: many, various,
 very dangerous softwares. Please keep your head up, tread lightly, and be
 cautious because your computer is never TRULY safe from worms! Make sure to
 keep your operating system clean, fresh, and tidy and free of toxins, roaches,
-bugs, and other various pests. `:-)`
+bugs, and other various pests. <code>:-)</code> <code>:D</code> <code>;P</code> <code>:3</code>
 
 ![](https://anlucas.neocities.org/best_viewed_with_eyes.gif)
 ![](https://anlucas.neocities.org/anydamn.gif)
