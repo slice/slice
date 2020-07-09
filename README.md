@@ -12,11 +12,11 @@
 ![arachnoskull](https://web.archive.org/web/20091027115623/http://www.geocities.com/draconisblkthn/arachnoskull.gif)
 
 <img src="https://web.archive.org/web/20091027100503/http://geocities.com/tiamatica/spiderskull.gif" align="left">
-Contained within the **GitHub user page** you are reading now: many, various,
+Contained within the <b>GitHub user page</b> you are reading now: many, various,
 very dangerous softwares. Please keep your head up, tread lightly, and be
 cautious because your computer is never TRULY safe from worms! Make sure to
 keep your operating system clean, fresh, and tidy and free of toxins, roaches,
-bugs, and other various pests. :-)
+bugs, and other various pests. `:-)`
 
 ![](https://anlucas.neocities.org/best_viewed_with_eyes.gif)
 ![](https://anlucas.neocities.org/anydamn.gif)
@@ -32,6 +32,15 @@ bugs, and other various pests. :-)
 ![](https://anlucas.neocities.org/penguin.gif)
 ![](https://anlucas.neocities.org/macos.gif)
 ![](https://anlucas.neocities.org/homicide.gif)
+
+##### Very good
+
+```scala
+trait Monad[F[_]] {
+  def flatMap(fa: F[A])(f: A => F[B]): F[B]
+  def pure(a: A): F[A]
+}
+```
 
 be cautious internet traveller!! DANGER lurks around every corner. enjoy surfing the web! never open any untrusted
 software that you do not recognize! <img src="https://web.archive.org/web/20091027004337/http://uk.geocities.com/kazlev2001/SkullXBones.gif" align="right">
