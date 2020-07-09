@@ -12,6 +12,7 @@
 ![arachnoskull](https://web.archive.org/web/20091027115623/http://www.geocities.com/draconisblkthn/arachnoskull.gif)
 ![arachnoskull](https://web.archive.org/web/20091027115623/http://www.geocities.com/draconisblkthn/arachnoskull.gif)
 ![arachnoskull](https://web.archive.org/web/20091027115623/http://www.geocities.com/draconisblkthn/arachnoskull.gif)
+![arachnoskull](https://web.archive.org/web/20091027115623/http://www.geocities.com/draconisblkthn/arachnoskull.gif)
 
 <img src="https://web.archive.org/web/20091027100503/http://geocities.com/tiamatica/spiderskull.gif" align="left">
 
@@ -21,7 +22,13 @@ very dangerous softwares. Please keep your head up, tread lightly, and be
 cautious because your computer is never TRULY safe from worms! Make sure to
 keep your operating system clean, fresh, and tidy and free of toxins, roaches,
 bugs, and other various pests.<br/>
-<b>🌠 Today's emotion horoscope</b>: <code>:-)</code> <code>:D</code> <code>;P</code> <code>:3</code> <code>&gt;:3</code>
+<br/>
+<b>🌠 Today's emotion horoscope</b>: <br/>
+<i>Jan 1 - Mar 13</i>: <code>&gt;:3</code> <br/>
+<i>Mar 14 - May 25</i>: <code>:D</code> <br/>
+<i>May 26 - Aug 6</i>: <code>;P</code> <br/>
+<i>Aug 7 - Oct 18</i>: <code>:3</code> <br/>
+<i>Oct 19 - Dec 31</i>: <code>:)</code>
 </p>
 
 <br/>
