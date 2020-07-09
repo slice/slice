@@ -1,1 +1,1 @@
-![hotdog](images/foods/hotdog.png)
+![hotdog](https://raw.githubusercontent.com/slice/slice/master/images/foods/hotdog.png)
