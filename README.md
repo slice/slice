@@ -42,6 +42,7 @@ emotions: <code>:-)</code> <code>:D</code> <code>;P</code> <code>:3</code> <code
 Take a look:
 
 <img src="https://web.archive.org/web/20091027004337/http://uk.geocities.com/kazlev2001/SkullXBones.gif" align="right">
+
 ```scala
 trait Monad[F[_]] {
   def flatMap[A, B](fa: F[A])(f: A => F[B]): F[B]
