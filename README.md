@@ -23,7 +23,8 @@ cautious because your computer is never TRULY safe from worms! Make sure to
 keep your operating system clean, fresh, and tidy and free of toxins, roaches,
 bugs, and other various pests.<br/>
 <br/>
-<b>🌠 Today's emotion horoscope</b>: <br/>
+<h6>🌠 Today's emotion horoscope</h6>
+Your birthday will determine today's emotion:
 <i>Jan 1 - Mar 13</i>: <code>&gt;:3</code> <br/>
 <i>Mar 14 - May 25</i>: <code>:D</code> <br/>
 <i>May 26 - Aug 6</i>: <code>;P</code> <br/>
