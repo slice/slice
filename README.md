@@ -24,7 +24,9 @@ keep your operating system clean, fresh, and tidy and free of toxins, roaches,
 bugs, and other various pests.<br/>
 <br/>
 <h5>🌠 Today's emotion horoscope</h5>
-Your birthday will determine today's emotion:
+<p>
+Your birthday will determine today's emotion. Find out now:
+</p>
 <i>Jan 1 - Mar 13</i>: <code>&gt;:3</code> <br/>
 <i>Mar 14 - May 25</i>: <code>:D</code> <br/>
 <i>May 26 - Aug 6</i>: <code>;P</code> <br/>
