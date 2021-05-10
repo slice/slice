@@ -1,1 +1,3 @@
-slice is here. he (or they) is trying to like computers.
+# [`&'a [T]`](https://doc.rust-lang.org/std/primitive.slice.html)
+
+he/they
