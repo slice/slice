@@ -1,3 +1,3 @@
-# [`&[T]`](https://doc.rust-lang.org/std/primitive.slice.html) <sub>he/they</sub>
+# [`&[T]`](https://doc.rust-lang.org/std/primitive.slice.html) <sub>he/him</sub>
 
-hi (:
+hello!
