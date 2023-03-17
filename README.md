@@ -1,3 +1,3 @@
-# [`&[T]`](https://doc.rust-lang.org/std/primitive.slice.html) <sub>he/him</sub>
+# [`&[T]`](https://doc.rust-lang.org/std/primitive.slice.html)
 
-hello!
+howdy! my name is skip (or slice) and i write software!
